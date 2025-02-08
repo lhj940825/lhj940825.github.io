@@ -28,15 +28,19 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MO](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+IEEE International Conference on Robotics and Automation (ICRA) 2025
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**H. Lim***, H. Yoo*, J. Lee, S. Jeon, H. Jeon
+
+<a href="https://arxiv.org/abs/2501.04950" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;Paper</span></a>
+<br>
+<a href="https://morda-e8d07e.gitlab.io" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Project page</span></a>
+
 </div>
 </div>
 

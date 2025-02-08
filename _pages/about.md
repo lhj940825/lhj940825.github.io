@@ -35,7 +35,7 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 
 IEEE International Conference on Robotics and Automation (ICRA) 2025
 
-__H. Lim*__, H. Yoo*, J. Lee, S. Jeon, H. Jeon
+**H. Lim***, H. Yoo*, J. Lee, S. Jeon, H. Jeon
 
 <a href="https://arxiv.org/abs/2501.04950" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;Paper</span></a>
 <br>
@@ -53,7 +53,7 @@ __H. Lim*__, H. Yoo*, J. Lee, S. Jeon, H. Jeon
 
 ITS World Congress (ITSWC) 2024 
 
-__H. Lim*__, H. Yoo*, J. Lee, I. Choi, J. Jung
+**H. Lim***, H. Yoo*, J. Lee, I. Choi, J. Jung
 
 <a href="https://itsworldcongress.com" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>
 

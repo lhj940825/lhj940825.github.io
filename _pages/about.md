@@ -46,6 +46,20 @@ IEEE International Conference on Robotics and Automation (ICRA) 2025
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSWC 2024</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MORGEN: Scenario-Based Virtual Data Generator Mitigating Edge-Case Data Deficit in Autonomous Driving**
+
+ITS World Congress (ITSWC) 2024 
+
+**H. Lim&ast;**, H. Yoo&ast;, J. Lee, I. Choi, J. Jung
+
+<a href="https://itsworldcongress.com" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>
+
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards

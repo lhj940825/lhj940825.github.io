@@ -31,11 +31,11 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain
+**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**
 
 IEEE International Conference on Robotics and Automation (ICRA) 2025
 
-**H. Lim***, H. Yoo*, J. Lee, S. Jeon, H. Jeon
+**H. Lim&ast;**, H. Yoo&ast;, J. Lee, S. Jeon, H. Jeon
 
 <a href="https://arxiv.org/abs/2501.04950" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;Paper</span></a>
 <br>

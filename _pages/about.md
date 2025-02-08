@@ -40,6 +40,8 @@ IEEE International Conference on Robotics and Automation (ICRA) 2025
 <a href="https://arxiv.org/abs/2501.04950" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;Paper</span></a>
 <br>
 <a href="https://morda-e8d07e.gitlab.io" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Project page</span></a>
+<br>
+<a href="https://2025.ieee-icra.org" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>
 
 </div>
 </div>

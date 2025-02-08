@@ -27,7 +27,7 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted at ITS World Congress 2024
 
 # 📝 Publications 
-## 📄 International Conferences
+### 📄 International Conferences
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +61,7 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 </div>
 </div>
 
-## 📄 Domestic Conferences
+### 📄 Domestic Conferences
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📝 Patents

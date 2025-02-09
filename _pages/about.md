@@ -26,8 +26,8 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted at ICRA 2025
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted at ITS World Congress 2024
 
-# 📝 Publications 
-### 📄 International Conferences
+# 📝 Publications
+## 📄 International Conferences
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +61,7 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 </div>
 </div>
 
-### 📄 Domestic Conferences
+## 📄 Domestic Conferences
 - <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Synthesizing Radar Data with Lidar Point Cloud Data and 3D Bounding Box Annotation](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665994), __H. Lim__, H. Yoo, J. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
 - <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Distribution-based Approach to Verification of Similarity between Real and Virtual Point Cloud Data using Digital-twin Environment](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665998), __H. Lim__, J. Lee, M. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
 - <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Mixed Reality Monitoring System for Integrating the Virtual Objects from Digital Twin Simulator into the Real World Camera Data](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665999), J. Lee, __H. Lim__, H. Yoo, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
@@ -70,12 +70,12 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 - <code class="language-plaintext highlighter-rouge">KIPS 2017</code> [Audio and Image based Emotion Recognition Framework on Real-time Video Streaming](https://koreascience.kr/article/CFKO201725864428772.page), J. Bang, __H. Lim__, and S. Lee, Korean Information Processing Society (KIPS) 2017 
 
 # 📝 Patents
-### 📄 US & PCT Patents
+## 📄 US & PCT Patents
 - <code class="language-plaintext highlighter-rouge">US-Pending</code> [METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA](), __H. Lim__\* H. Yoo, and M. Lee
 - <code class="language-plaintext highlighter-rouge">PCT-Pending</code> [ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA](), __H. Lim__\* H. Yoo, and M. Lee 
 - <code class="language-plaintext highlighter-rouge">PCT-Pending</code> [METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA](), __H. Lim__\* H. Yoo, and J. Lee
 
-### 📄 Domestic Patents
+## 📄 Domestic Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/gen_virtual_lidar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -119,7 +119,7 @@ Date of Registration: 2024.05.08
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/location_context_inference.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/location_context_inference.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Method and system for user's location context inference**

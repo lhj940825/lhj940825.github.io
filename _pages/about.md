@@ -78,12 +78,59 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 <div class='paper-box-text' markdown="1">
 
 **METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA**
-<br>
+
 __H. Lim__\* H. Yoo, and M. Lee
-<br>
+
+Date of Registration: 2025.01.31
+
 <a href="" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/processing_point_cloud_data.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA**
+
+__H. Lim__\* J. Lee, and M. Lee
+
+Date of Registration: 2024.10.18
+
+<a href="https://patents.google.com/patent/KR102721165B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/generating_synthetic_radar_data.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA**
+
+__H. Lim__\* H. Yoo, and J. Lee
+
+Date of Registration: 2024.05.08
+
+<a href="https://patents.google.com/patent/KR102665806B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/location_context_inference.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Method and system for user's location context inference**
+
+__H. Lim__\* and S. Lee
+
+Date of Registration: 2019.11.07
+
+<a href="https://patents.google.com/patent/KR20190074532A/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**

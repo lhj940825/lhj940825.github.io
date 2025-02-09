@@ -131,9 +131,13 @@ Date of Registration: 2019.11.07
 </div>
 </div>
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <code class="language-plaintext highlighter-rouge">Pending</code> [가상 데이터 내의 비식별화 이미지 생성 방법 및 시스템](), __H. Lim__, 10-2024-0202253
+- <code class="language-plaintext highlighter-rouge">Pending</code> [고-정밀 지도 기반의 가상 환경에서 가상 센서의 배치 위치를 결정하는 방법 및 이를 지원하는 전자 장치](), __H. Lim__, et al., 10-2024-0104342
+- <code class="language-plaintext highlighter-rouge">Pending</code> [3차원 바운딩 박스 생성 방법 및 시스템](), __H. Lim__, 10-2024-0105244
+- <code class="language-plaintext highlighter-rouge">Pending</code> [포인트 클라우드 데이터를 처리하는 전자 장치 및 방법](), H. Yoo, S. Jang, __H. Lim__, 10-2024-0076717
+- <code class="language-plaintext highlighter-rouge">Pending</code> [가상 이미지 생성 방법 및 시스템](), __H. Lim__, 10-2024-0056122
+- <code class="language-plaintext highlighter-rouge">Pending</code> [3차원 바운딩 박스 생성 방법 및 시스템](), __H. Lim__ and H. Yoo, 10-2024-0056177
+- <code class="language-plaintext highlighter-rouge">Pending</code> [3차원 바운딩 박스 데이터 생성 방법 및 시스템](), __H. Lim__, 10-2024-0055470
 
 
 # 📖 Educations

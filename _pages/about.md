@@ -62,7 +62,12 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 </div>
 
 ### 📄 Domestic Conferences
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Synthesizing Radar Data with Lidar Point Cloud Data and 3D Bounding Box Annotation](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665994), __H. Lim__, H. Yoo, J. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
+- <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Distribution-based Approach to Verification of Similarity between Real and Virtual Point Cloud Data using Digital-twin Environment](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665998), __H. Lim__, J. Lee, M. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
+- <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Mixed Reality Monitoring System for Integrating the Virtual Objects from Digital Twin Simulator into the Real World Camera Data](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665999), J. Lee, __H. Lim__, H. Yoo, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
+- <code class="language-plaintext highlighter-rouge">KIISE 2017</code> [Lecture Evaluation Sentiment Analysis using Word Embedding and Text-CNN](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322762), __H. Lim__, G. Choi, and S. Shin, Korean Institute of Information Scientists and Engineers (KIISE) 2017
+- <code class="language-plaintext highlighter-rouge">KIISE 2017</code> [User’s Location Context Inference System for Advanced LBS in Smartphone Environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207743), __H. Lim__, S. Jung, J. Bang, and S. Lee, Korean Institute of Information Scientists and Engineers (KIISE) 2017
+- <code class="language-plaintext highlighter-rouge">KIPS 2017</code> [Audio and Image based Emotion Recognition Framework on Real-time Video Streaming](https://koreascience.kr/article/CFKO201725864428772.page), J. Bang, __H. Lim__, and S. Lee, Korean Information Processing Society (KIPS) 2017 
 
 # 📝 Patents
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**

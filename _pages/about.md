@@ -70,6 +70,22 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 - <code class="language-plaintext highlighter-rouge">KIPS 2017</code> [Audio and Image based Emotion Recognition Framework on Real-time Video Streaming](https://koreascience.kr/article/CFKO201725864428772.page), J. Bang, __H. Lim__, and S. Lee, Korean Information Processing Society (KIPS) 2017 
 
 # 📝 Patents
+### 📄 US & PCT Patents
+
+
+### 📄 Domestic Patents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/gen_virtual_lidar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA**
+<br>
+__H. Lim__\* H. Yoo, and M. Lee
+<br>
+<a href="" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 

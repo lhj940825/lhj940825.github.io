@@ -71,7 +71,9 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 
 # 📝 Patents
 ### 📄 US & PCT Patents
-
+- <code class="language-plaintext highlighter-rouge">US-Pending</code> [METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA](), __H. Lim__\* H. Yoo, and M. Lee
+- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> [ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA](), __H. Lim__\* H. Yoo, and M. Lee 
+- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> [METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA](), __H. Lim__\* H. Yoo, and J. Lee
 
 ### 📄 Domestic Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/gen_virtual_lidar.jpg' alt="sym" width="100%"></div></div>

@@ -154,5 +154,4 @@ Date of Registration: 2019.11.07
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.08* Virtual Sensor-data Generation and Verification Using an Autonomous-driving Simulator, [International Symposium on Advanced Vehicle Technology (ISAVT) 2023](https://sites.google.com/view/isavt2023/home?authuser=0)

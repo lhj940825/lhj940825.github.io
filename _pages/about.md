@@ -29,7 +29,7 @@ I also hold a Master's degree from RWTH Aachen University in Germany, where I ga
 # 📝 Publications 
 ### 📄 International Conferences
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**
@@ -47,7 +47,7 @@ __H. Lim__\*, H. Yoo\*, J. Lee, S. Jeon, H. Jeon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSWC 2024</div><img src='images/papers/morda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSWC 2024</div><img src='images/papers/morgen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MORGEN: Scenario-Based Virtual Data Generator Mitigating Edge-Case Data Deficit in Autonomous Driving**

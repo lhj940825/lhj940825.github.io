@@ -62,10 +62,10 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 </div>
 
 ## 📄 Domestic Conferences
-- <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Synthesizing Radar Data with Lidar Point Cloud Data and 3D Bounding Box Annotation](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665994), __H. Lim__, H. Yoo, J. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
+- <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Synthesizing Radar Data with Lidar Point Cloud Data and 3D Bounding Box Annotation](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665994), __H. Lim__, H. Yoo, J. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023 <span style="color:red">(Excellence Prize)</span>
 - <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Distribution-based Approach to Verification of Similarity between Real and Virtual Point Cloud Data using Digital-twin Environment](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665998), __H. Lim__, J. Lee, M. Lee, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
 - <code class="language-plaintext highlighter-rouge">KSAE 2023</code> [Mixed Reality Monitoring System for Integrating the Virtual Objects from Digital Twin Simulator into the Real World Camera Data](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11665999), J. Lee, __H. Lim__, H. Yoo, and H. Jeon, Korean Society of Automotive Engineers (KSAE) 2023
-- <code class="language-plaintext highlighter-rouge">KIISE 2017</code> [Lecture Evaluation Sentiment Analysis using Word Embedding and Text-CNN](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322762), __H. Lim__, G. Choi, and S. Shin, Korean Institute of Information Scientists and Engineers (KIISE) 2017
+- <code class="language-plaintext highlighter-rouge">KIISE 2017</code> [Lecture Evaluation Sentiment Analysis using Word Embedding and Text-CNN](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322762), __H. Lim__, G. Choi, and S. Shin, Korean Institute of Information Scientists and Engineers (KIISE) 2017 <span style="color:red">(Encouragement Prize)</span>
 - <code class="language-plaintext highlighter-rouge">KIISE 2017</code> [User’s Location Context Inference System for Advanced LBS in Smartphone Environment](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07207743), __H. Lim__, S. Jung, J. Bang, and S. Lee, Korean Institute of Information Scientists and Engineers (KIISE) 2017
 - <code class="language-plaintext highlighter-rouge">KIPS 2017</code> [Audio and Image based Emotion Recognition Framework on Real-time Video Streaming](https://koreascience.kr/article/CFKO201725864428772.page), J. Bang, __H. Lim__, and S. Lee, Korean Information Processing Society (KIPS) 2017 
 
@@ -143,15 +143,17 @@ Date of Registration: 2019.11.07
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2019.10 ~ 2021.10*: Master of Media Informatics (GPA &darr;: 1.7/4.0), RWTH Aachen University, Germany
+- *2014.03 ~ 2018.08*: Bachelor of Computer Engineering (GPA &uarr;: 4.06/4.5, Second place), Kyung-Hee University (KHU), Korea 
 
 # 💻 Work Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.11 - Present*: Research Engineer, [MORAI Inc](https://www.morai.ai), South Korea
+- *2020.10 ~ 2021.10*: Graduate Student Research Assistant, [Fraunhofer IAIS](https://www.iais.fraunhofer.de), Germany
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.11* Excellence prize in KSAE 2023 
+- *2017.11* Encouragement prize in KIISE 2017 
+- *2014.03 ~ 2018.08* Scholarship for academic excellence (5 times out of 8 semesters), Kyung-Hee University
 
 # 💬 Talks
 - *2023.08* Virtual Sensor-data Generation and Verification Using an Autonomous-driving Simulator, [International Symposium on Advanced Vehicle Technology (ISAVT) 2023](https://sites.google.com/view/isavt2023/home?authuser=0)

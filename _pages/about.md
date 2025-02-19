@@ -85,7 +85,7 @@ __H. Lim__\* H. Yoo, and M. Lee
 
 Date of Registration: 2025.01.31
 
-<a href="" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+<a href="https://patents.google.com/patent/KR102762615B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
 
 </div>
 </div>

@@ -16,11 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am a research engineer with 3-year experience in synthetic data generation, AI for autonomous systems, and simulation technologies. My work focuses on developing innovative tools for autonomous driving, including simulation-based dataset creation and enhancing sensor realism. Skilled in Unity, PyTorch, and Open3D, I have a passion for solving complex technical challenges and advancing AI applications in real-world scenarios.
-
-I also hold a Master's degree from RWTH Aachen University in Germany, where I gained deep expertise in computer vision and deep learning. During my journey in Germany, I contributed to the KI Absicherung project at Fraunhofer IAIS as a research assistant, focusing on AI for safe automated driving.
-
+Master’s graduate in Media Informatics from RWTH Aachen University with 3+ years of experience in simulation and AI research.
+In Germany, I have worked on uncertainty estimation for safer AIs at Fraunhofer IAIS.
+In South Korea, I have generated large-scale synthetic driving datasets (40+ million frames) using a simulator and data-generation pipeline that I contributed to at MORAI. 
+Using the generated dataset and Sim2Real methods, I have improved the performance of multimodal 3D perception models.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted at ICRA 2025

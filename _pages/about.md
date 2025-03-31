@@ -22,11 +22,14 @@ In South Korea, I have generated large-scale synthetic driving datasets (40+ mil
 Using the generated dataset and Sim2Real methods, I have improved the performance of multimodal 3D perception models.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted at IV 2025
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted at ICRA 2025
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted at ITS World Congress 2024
 
 # 📝 Publications
 ## 📄 International Conferences
+
+<code class="language-plaintext highlighter-rouge">IV 2025</code> "Sensor-aware Offline Synthetic-to-Real Adaptation for Multimodal Driving Datasets: Shape Preserved, Signal Improved, __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo, IEEE Intelligent Vehicles Symposium (IV) 2025 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

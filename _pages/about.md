@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Master’s graduate in Media Informatics from RWTH Aachen University with 3+ years of experience in simulation and AI research.
-In Germany, I have worked on uncertainty estimation for safer AIs at Fraunhofer IAIS.
-In South Korea, I have generated large-scale synthetic driving datasets (40+ million frames) using a simulator and data-generation pipeline that I contributed to at MORAI. 
-Using the generated dataset and Sim2Real methods, I have improved the performance of multimodal 3D perception models.
+I am an AI research engineer with 3+ years of experience in simulation-driven perception for autonomous driving.
+I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 14 patents (4 granted, 10 pending), primarily in AI and driving simulation.
+My work focuses on improving multimodal perception through synthetic data and domain adaptation.
+Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted at IV 2025

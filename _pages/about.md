@@ -38,6 +38,9 @@ IEEE Intelligent Vehicles Symposium (IV) 2025
 
  __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

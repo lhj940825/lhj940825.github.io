@@ -29,7 +29,14 @@ Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS an
 # 📝 Publications
 ## 📄 International Conferences
 
-<code class="language-plaintext highlighter-rouge">IV 2025</code> Sensor-aware Offline Synthetic-to-Real Adaptation for Multimodal Driving Datasets: Shape Preserved, Signal Improved, __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo, IEEE Intelligent Vehicles Symposium (IV) 2025 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IV 2025</div><img src='images/papers/soda.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sensor-aware Offline Synthetic-to-Real Adaptation for Multimodal Driving Datasets: Shape Preserved, Signal Improved**
+
+IEEE Intelligent Vehicles Symposium (IV) 2025 
+
+ __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/morda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

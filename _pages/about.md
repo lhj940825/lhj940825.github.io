@@ -38,6 +38,8 @@ IEEE Intelligent Vehicles Symposium (IV) 2025
 
  __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo
 
+<a href="https://its.papercept.net/conferences/scripts/rtf/IV25_ContentListWeb_5.html" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>
+
 </div>
 </div>
 

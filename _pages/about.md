@@ -39,6 +39,7 @@ IEEE Intelligent Vehicles Symposium (IV) 2025
  __H. Lim__, J. Cha, H. Jeon, S. Gu, H. Yoo
 
 <a href="https://ieeexplore.ieee.org/document/11097457" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;doi:10.1109/IV64158.2025.11097457</span></a>
+<br>
 <a href="https://its.papercept.net/conferences/scripts/rtf/IV25_ContentListWeb_5.html" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>
 
 </div>
@@ -87,10 +88,8 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 # 📝 Patents
 ## 📄 US & PCT Patents
 - <code class="language-plaintext highlighter-rouge">US-Pending</code> METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA, __H. Lim__\* H. Yoo, and M. Lee
-- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA, __H. Lim__\* J. Lee, and M. Lee
-  - <a href="https://patents.google.com/patent/WO2025116317A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
-- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA, __H. Lim__\* H. Yoo, and J. Lee
-  - <a href="https://patents.google.com/patent/WO2025165042A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA, __H. Lim__\* J. Lee, and M. Lee <a href="https://patents.google.com/patent/WO2025116317A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA, __H. Lim__\* H. Yoo, and J. Lee <a href="https://patents.google.com/patent/WO2025165042A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
 
 ## 📄 Domestic Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/gen_virtual_lidar.jpg' alt="sym" width="100%"></div></div>

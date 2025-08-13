@@ -135,7 +135,7 @@ Date of Registration: 2024.05.08
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/location_context_inference.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/location_context_inference.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **METHOD AND SYSTEM FOR USER'S LOCATION CONTEXT INFERENCE**

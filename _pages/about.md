@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an AI research engineer with 3+ years of experience in simulation-driven perception for autonomous driving.
-I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 14 patents (4 granted, 10 pending), primarily in AI and driving simulation.
+I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (4 granted, 7 pending), primarily in AI and driving simulation.
 My work focuses on improving multimodal perception through synthetic data and domain adaptation.
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 
@@ -86,12 +86,7 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 - <code class="language-plaintext highlighter-rouge">KIPS 2017</code> [Audio and Image based Emotion Recognition Framework on Real-time Video Streaming](https://koreascience.kr/article/CFKO201725864428772.page), J. Bang, __H. Lim__, and S. Lee, Korean Information Processing Society (KIPS) 2017 
 
 # 📝 Patents
-## 📄 US & PCT Patents
-- <code class="language-plaintext highlighter-rouge">US-Pending</code> METHOD AND SYSTEM FOR GENERATING VIRTUAL LIDAR DATA, __H. Lim__\* H. Yoo, and M. Lee
-- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA, __H. Lim__\* J. Lee, and M. Lee <a href="https://patents.google.com/patent/WO2025116317A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
-- <code class="language-plaintext highlighter-rouge">PCT-Pending</code> METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA, __H. Lim__\* H. Yoo, and J. Lee <a href="https://patents.google.com/patent/WO2025165042A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
-
-## 📄 Domestic Patents
+## 📄 Granted Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/gen_virtual_lidar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,9 +94,10 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 
 __H. Lim__\* H. Yoo, and M. Lee
 
-Date of Registration: 2025.01.31
+<a href="https://patents.google.com/patent/KR102762615B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.01.31
+<br>
+[US-Pending]
 
-<a href="https://patents.google.com/patent/KR102762615B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
 
 </div>
 </div>
@@ -114,9 +110,9 @@ Date of Registration: 2025.01.31
 
 __H. Lim__\* J. Lee, and M. Lee
 
-Date of Registration: 2024.10.18
-
-<a href="https://patents.google.com/patent/KR102721165B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+<a href="https://patents.google.com/patent/KR102721165B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2024.10.18
+<br>
+<a href="https://patents.google.com/patent/WO2025116317A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[PCT-Pending]</span></a>
 
 </div>
 </div>
@@ -128,9 +124,9 @@ Date of Registration: 2024.10.18
 
 __H. Lim__\* H. Yoo, and J. Lee
 
-Date of Registration: 2024.05.08
-
-<a href="https://patents.google.com/patent/KR102665806B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
+<a href="https://patents.google.com/patent/KR102665806B1/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2024.05.08
+<br>
+<a href="https://patents.google.com/patent/WO2025165042A1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[PCT-Pending]</span></a>
 
 </div>
 </div>
@@ -142,13 +138,13 @@ Date of Registration: 2024.05.08
 
 __H. Lim__\* and S. Lee
 
-Date of Registration: 2019.11.07
+<a href="https://patents.google.com/patent/KR20190074532A/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2019.11.07
 
-<a href="https://patents.google.com/patent/KR20190074532A/en?inventor=%EC%9E%84%ED%98%B8%EC%A4%80&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Google Patent</span></a>
 
 </div>
 </div>
 
+## 📄 Pending Patents
 - <code class="language-plaintext highlighter-rouge">Pending</code> 가상 데이터 내의 비식별화 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0202253
 - <code class="language-plaintext highlighter-rouge">Pending</code> 고-정밀 지도 기반의 가상 환경에서 가상 센서의 배치 위치를 결정하는 방법 및 이를 지원하는 전자 장치, __H. Lim__, et al., 10-2024-0104342
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__, 10-2024-0105244
@@ -156,7 +152,6 @@ Date of Registration: 2019.11.07
 - <code class="language-plaintext highlighter-rouge">Pending</code> 가상 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0056122
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__ and H. Yoo, 10-2024-0056177
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 데이터 생성 방법 및 시스템, __H. Lim__, 10-2024-0055470
-
 
 # 📖 Educations
 - *2019.10 ~ 2021.10*: Master of Media Informatics (GPA &darr;: 1.7/4.0), RWTH Aachen University, Germany

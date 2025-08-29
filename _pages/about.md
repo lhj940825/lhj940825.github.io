@@ -115,7 +115,7 @@ __H. Lim__\* H. Yoo, and M. Lee
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/processing_point_cloud_data.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/processing_point_cloud_data.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA**
@@ -129,7 +129,7 @@ __H. Lim__\* J. Lee, and M. Lee
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Registered</div><img src='images/patents/generating_synthetic_radar_data.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/generating_synthetic_radar_data.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **METHOD AND SYSTEM FOR GENERATING SYNTHETIC RADAR DATA**

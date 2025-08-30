@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an AI research engineer with 3+ years of experience in simulation-driven perception for autonomous driving.
-I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (4 granted, 7 pending), primarily in AI and driving simulation.
+I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (5 granted, 6 pending), primarily in AI and driving simulation.
 My work focuses on improving multimodal perception through synthetic data and domain adaptation.
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 

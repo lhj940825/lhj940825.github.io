@@ -56,6 +56,8 @@ __H. Lim__\*, H. Yoo\*, J. Lee, S. Jeon, H. Jeon
 
 <a href="https://arxiv.org/abs/2501.04950" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;Preprint</span></a>
 <br>
+<a href="https://ieeexplore.ieee.org/document/11127978" style="text-decoration: none"><img src="images/icons/doc.svg" class="icon"><span>&ensp;doi:10.1109/ICRA55743.2025.11127978</span></a>
+<br>
 <a href="https://morda-e8d07e.gitlab.io" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Project page</span></a>
 <br>
 <a href="https://2025.ieee-icra.org" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;Conference page</span></a>

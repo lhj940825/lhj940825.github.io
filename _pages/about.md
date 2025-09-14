@@ -22,6 +22,7 @@ My work focuses on improving multimodal perception through synthetic data and do
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our previous work "MORDA (ICRA 2025)" is presented at CoRL 2025 workshop. 
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted at IV 2025
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted at ICRA 2025
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted at ITS World Congress 2024

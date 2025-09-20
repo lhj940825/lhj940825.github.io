@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an AI research engineer with 3+ years of experience in simulation-driven perception for autonomous driving.
-I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (5 granted, 6 pending), primarily in AI and driving simulation.
+I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (6 granted, 5 pending), primarily in AI and driving simulation.
 My work focuses on improving multimodal perception through synthetic data and domain adaptation.
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 
@@ -90,12 +90,25 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 
 # 📝 Patents
 ## 📄 Granted Patents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/virtual_sensor_placement.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD FOR DETERMINING PLACEMENT OF VIRTUAL SENSOR IN VIRTUAL ENVIRONMENT BASED ON HIGH-DEFINITION MAP AND ELECTRONIC DEVICE**
+
+__H. Lim__\*, H. Yoo, J. Ham, H. Park, and H. Jeon
+
+<a href="https://k-knowledge.kr/srch/read.jsp?keyword=발명자-임호준&id=276361975" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.09.10
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/gen_virtual_lidar2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ELECTRONIC DEVICE AND METHOD FOR PROCESSING POINT CLOUD DATA**
 
-H. Yoo, S. Jang, __H. Lim__\*,
+H. Yoo, S. Jang, __H. Lim__\*
 
 <a href="https://patents.google.com/patent/KR102848421B1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.08.21
 

@@ -97,7 +97,7 @@ __H. Lim__\* H. Yoo\*, J. Lee, I. Choi, J. Jung
 
 __H. Lim__\*, H. Yoo, J. Ham, H. Park, and H. Jeon
 
-<a href="https://k-knowledge.kr/srch/read.jsp?keyword=발명자-임호준&id=276361975" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.09.10
+<a href="https://patents.google.com/patent/KR102859824B1/en?inventor=임호준&sort=new" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.09.10
 
 </div>
 </div>

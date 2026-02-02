@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am a PhD candidate at TUM with 4-year industry experience as an AI research engineer in simulation-driven perception for autonomous driving.
-I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (6 granted, 5 pending), primarily in AI and driving simulation.
+I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (9 granted, 2 pending), primarily in AI and driving simulation.
 My work focuses on improving multimodal perception through synthetic data and domain adaptation.
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
 
@@ -102,6 +102,42 @@ __H. Lim__\*, H. Yoo, J. Ham, H. Park, and H. Jeon
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/gen_syn_image.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD AND SYSTEM FOR GENERATING SYNTHETIC IMAGE**
+
+__H. Lim__\*
+
+<a href="https://patents.google.com/patent/KR102913794B1/en?inventor=임호준&assignee=주식회사+모라이" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2026.01.19
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/gen_3dbox_data.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD AND SYSTEM FOR GENERATING 3-DIMENTIONAL BOUNDING BOX DATA**
+
+__H. Lim__\*
+
+<a href="https://patents.google.com/patent/KR20250156455A/en?inventor=임호준&assignee=주식회사+모라이" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2025.11.03
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/gen_3dbox_data2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**METHOD AND SYSTEM FOR GENERATING 3-DIMENSIONAL BOUNDING BOX**
+
+__H. Lim__\*, H. Yoo
+
+<a href="https://patents.google.com/patent/KR102913804B1/en?inventor=임호준&assignee=주식회사+모라이" style="text-decoration: none"><img src="images/icons/web.svg" class="icon"><span>&ensp;[KR Patent]</span></a> Date of Registration: 2026.01.19
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Granted</div><img src='images/patents/gen_virtual_lidar2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -174,7 +210,6 @@ __H. Lim__\* and S. Lee
 
 ## 📄 Pending Patents
 - <code class="language-plaintext highlighter-rouge">Pending</code> 가상 데이터 내의 비식별화 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0202253
-- <code class="language-plaintext highlighter-rouge">Pending</code> 고-정밀 지도 기반의 가상 환경에서 가상 센서의 배치 위치를 결정하는 방법 및 이를 지원하는 전자 장치, __H. Lim__, et al., 10-2024-0104342
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__, 10-2024-0105244
 - <code class="language-plaintext highlighter-rouge">Pending</code> 가상 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0056122
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__ and H. Yoo, 10-2024-0056177

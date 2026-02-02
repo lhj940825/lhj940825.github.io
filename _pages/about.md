@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an AI research engineer with 3+ years of experience in simulation-driven perception for autonomous driving.
+I am a PhD candidate at TUM with 4-year industry experience as an AI research engineer in simulation-driven perception for autonomous driving.
 I have authored 3 peer-reviewed publications (IEEE ICRA, IEEE IV, ITS World Congress) and contributed to 11 patents (6 granted, 5 pending), primarily in AI and driving simulation.
 My work focuses on improving multimodal perception through synthetic data and domain adaptation.
 Previously, I conducted research on uncertainty estimation at Fraunhofer IAIS and earned a master’s degree from RWTH Aachen.
@@ -185,7 +185,8 @@ __H. Lim__\* and S. Lee
 - *2014.03 ~ 2018.08*: Bachelor of Computer Engineering (GPA &uarr;: 4.06/4.5, Second place), Kyung-Hee University (KHU), Korea 
 
 # 💻 Work Experience
-- *2021.11 - Present*: Research Engineer, [MORAI Inc](https://www.morai.ai), South Korea
+- *2026.02 - Present*: Research Associate, [TUM FTM](https://www.mos.ed.tum.de/ftm/startseite/), Germany 
+- *2021.11 - 2026.01*: Research Engineer, [MORAI Inc](https://www.morai.ai), South Korea
 - *2020.10 ~ 2021.10*: Graduate Student Research Assistant, [Fraunhofer IAIS](https://www.iais.fraunhofer.de), Germany
 
 # 🎖 Honors and Awards

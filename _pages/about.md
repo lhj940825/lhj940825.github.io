@@ -211,9 +211,6 @@ __H. Lim__\* and S. Lee
 ## 📄 Pending Patents
 - <code class="language-plaintext highlighter-rouge">Pending</code> 가상 데이터 내의 비식별화 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0202253
 - <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__, 10-2024-0105244
-- <code class="language-plaintext highlighter-rouge">Pending</code> 가상 이미지 생성 방법 및 시스템, __H. Lim__, 10-2024-0056122
-- <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 생성 방법 및 시스템, __H. Lim__ and H. Yoo, 10-2024-0056177
-- <code class="language-plaintext highlighter-rouge">Pending</code> 3차원 바운딩 박스 데이터 생성 방법 및 시스템, __H. Lim__, 10-2024-0055470
 
 # 📖 Educations
 - *2019.10 ~ 2021.10*: Master of Media Informatics (GPA &darr;: 1.7/4.0), RWTH Aachen University, Germany
